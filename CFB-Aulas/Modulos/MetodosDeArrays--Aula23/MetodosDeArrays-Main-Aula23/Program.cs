@@ -1,17 +1,11 @@
 ﻿using MetodosDeArrays_ModelsClass_Aula23.Models;
-
 MenuDeMetodos metodos = new();
-
 
 bool newTest = true;
 
 int returnErro = 0;
 int optionMenu = 0;
 int number = 0;
-
-int[] vetorNumber = [1, 2, 3, 4, 5, 6, 7, 8, 9, 5, 4, 2, 1, 8, 9, 6, 5];
-int[] vetorAlternative = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
-
 
 string? optionMenuText = "Null";
 
@@ -53,35 +47,35 @@ do
     switch (optionMenu)
     {
         case 1:
-            if (vetorNumber.BinarySearch(number) != -1)
+            if (metodos.VetorInfo.BinarySearch(number) != -1)
             {
-                Console.WriteLine($"O valor informado está no index [{vetorNumber.BinarySearch(number)}]");
+                Console.WriteLine($"O valor informado está no index [{metodos.VetorInfo.BinarySearch(number)}]");
             } else
             {
                 Console.WriteLine("O valor informado não foi encontrado.");
             }
             break;
         case 2:
-            vetorNumber.CopyTo(vetorAlternative, 0);
-            for (int index = 0; index < vetorAlternative.Length; index++)
+            metodos.VetorInfo.CopyTo(metodos.VetorAlternative, 0);
+            for (int index = 0; index < metodos.VetorAlternative.Length; index++)
             {
-                Console.Write($"[{vetorAlternative[index]}] ");
+                Console.Write($"[{metodos.VetorAlternative[index]}] ");
             }
             Console.WriteLine();
             break;
         case 3:
-            if (vetorNumber.IndexOf(number) != -1)
+            if (metodos.VetorInfo.IndexOf(number) != -1)
             {
-                Console.WriteLine($"O valor informado está no index [{vetorNumber.IndexOf(number)}]");
+                Console.WriteLine($"O valor informado está no index [{metodos.VetorInfo.IndexOf(number)}]");
             } else
             {
                 Console.WriteLine("O valor informado não foi encontrado.");
             }
             break;
         case 4:
-            if (vetorNumber.LastIndexOf(number) != -1)
+            if (metodos.VetorInfo.LastIndexOf(number) != -1)
             {
-                Console.WriteLine($"O valor informado está no index [{vetorNumber.LastIndexOf(number)}]");
+                Console.WriteLine($"O valor informado está no index [{metodos.VetorInfo.LastIndexOf(number)}]");
             } else
             {
                 Console.WriteLine("O valor informado não foi encontrado.");
