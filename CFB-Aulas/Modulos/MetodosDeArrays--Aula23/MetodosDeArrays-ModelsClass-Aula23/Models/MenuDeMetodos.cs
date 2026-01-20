@@ -8,8 +8,8 @@ namespace MetodosDeArrays_ModelsClass_Aula23.Models
 {
     public class MenuDeMetodos
     {
-        public int[] VetorInfo = [1, 2, 3, 4, 5, 6, 7, 8, 9, 5, 4, 2, 1, 8, 9, 6, 5];
-        //0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+        public int[] VetorInfo = new int[17];
         public int[] VetorAlternative = new int[17];
         public int NumberInfor {get; set;}
         public int InfoNumber()

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodosDeArrays-ModelsClass-Aula23")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e0dbb06de6e7eae882dfa913556f4d43737de67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d74e78ccd7295197116053d2e286dd3640fb3a70")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodosDeArrays-ModelsClass-Aula23")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodosDeArrays-ModelsClass-Aula23")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
