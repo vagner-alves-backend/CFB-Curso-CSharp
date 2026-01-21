@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Metodos-e-Argumentos-Main-Aula24/1.0.0": {
+        "dependencies": {
+          "Metodos-e-Argumentos-ModelsClass-Aula24": "1.0.0"
+        },
+        "runtime": {
+          "Metodos-e-Argumentos-Main-Aula24.dll": {}
+        }
+      },
+      "Metodos-e-Argumentos-ModelsClass-Aula24/1.0.0": {
+        "runtime": {
+          "Metodos-e-Argumentos-ModelsClass-Aula24.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodos-e-Argumentos-Main-Aula24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Metodos-e-Argumentos-ModelsClass-Aula24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
