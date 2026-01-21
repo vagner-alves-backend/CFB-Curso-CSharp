@@ -18,5 +18,22 @@ namespace Metodos_e_Argumentos_ModelsClass_Aula24.Models
         {
             resposta = number * (PrimeiroNumber + SegundoNumber);
         }
+
+        public int Calculo(params int[]number)
+        {
+            int resp = 0;
+            if (number.Length < 2)
+            {
+                Console.WriteLine("Não a parameros o suficiente.");
+            } else
+            {
+                foreach (int num in number)
+                {
+                    resp += num;
+                }
+                resp *= PrimeiroNumber;
+            }
+            return resp;
+        }
     }
 }

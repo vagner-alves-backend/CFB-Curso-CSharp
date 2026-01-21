@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metodos-e-Argumentos-ModelsClass-Aula24")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c17f4a5a319770f2b375e771f9101cd7585da9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3737044826aaed46fd2efcdbaf9a7be1b5b9ecf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metodos-e-Argumentos-ModelsClass-Aula24")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metodos-e-Argumentos-ModelsClass-Aula24")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

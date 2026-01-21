@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula24\\Metodos-e-Argumentos-Main-Aula24\\Metodos-e-Argumentos-Main-Aula24.csproj",
+      "projectUniqueName": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula27\\Metodos-e-Argumentos-Main-Aula24\\Metodos-e-Argumentos-Main-Aula24.csproj",
       "projectName": "Metodos-e-Argumentos-Main-Aula24",
-      "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula24\\Metodos-e-Argumentos-Main-Aula24\\Metodos-e-Argumentos-Main-Aula24.csproj",
+      "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula27\\Metodos-e-Argumentos-Main-Aula24\\Metodos-e-Argumentos-Main-Aula24.csproj",
       "packagesPath": "C:\\Users\\Vágner Alves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula24\\Metodos-e-Argumentos-Main-Aula24\\obj\\",
+      "outputPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula27\\Metodos-e-Argumentos-Main-Aula24\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vágner Alves\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula24\\Metodos-e-Argumentos-ModelsClass-Aula24\\Metodos-e-Argumentos-ModelsClass-Aula24.csproj": {
-              "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula24\\Metodos-e-Argumentos-ModelsClass-Aula24\\Metodos-e-Argumentos-ModelsClass-Aula24.csproj"
+            "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula27\\Metodos-e-Argumentos-ModelsClass-Aula24\\Metodos-e-Argumentos-ModelsClass-Aula24.csproj": {
+              "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\CFB-Curso-CSharp\\CFB-Aulas\\Modulos\\Metodos-e-Argumentos--Aula27\\Metodos-e-Argumentos-ModelsClass-Aula24\\Metodos-e-Argumentos-ModelsClass-Aula24.csproj"
             }
           }
         }
