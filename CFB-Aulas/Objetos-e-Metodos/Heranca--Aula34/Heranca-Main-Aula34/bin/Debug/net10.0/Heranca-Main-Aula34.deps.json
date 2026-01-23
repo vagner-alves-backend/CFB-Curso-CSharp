@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Heranca-Main-Aula34/1.0.0": {
+        "runtime": {
+          "Heranca-Main-Aula34.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Heranca-Main-Aula34/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

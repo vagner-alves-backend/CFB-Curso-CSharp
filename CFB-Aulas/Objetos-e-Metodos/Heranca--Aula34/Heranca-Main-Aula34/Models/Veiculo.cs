@@ -6,24 +6,20 @@ using System.Threading.Tasks;
 
 namespace Heranca_Main_Aula34.Models
 {
-    public class Veiculo
+    public class Veiculo(bool iscarro, bool ligado, bool lavado, double gasolina)
     {
-        public string? IsCarro;
-        private readonly bool _ligado;
-        public bool Lavado {get; set;}
-        public double Gasolina {get; set;}
+        private readonly bool _carro = iscarro;
+        private readonly bool _ligado = ligado;
+        private readonly bool _limpo = lavado;
+        private readonly double _gasolina = gasolina;
         
-        public Veiculo(): this("Carro", false, false, 2.5){}
-        public Veiculo(string iscarro, bool lavado) : this(iscarro, lavado, false, 2.5){}
-        public Veiculo(string iscarro, bool ligado, bool lavado, double gasolina)
-        {
-            this.IsCarro = iscarro;
-            this._ligado = ligado;
-            this.Lavado = lavado;
-            this.Gasolina = gasolina;
-        }
+        public Veiculo(): this(false, false, false, 2.5){}
+        public Veiculo(double gasolina) : this(false, false, false, gasolina){} 
+        public Veiculo(bool iscarro, bool lavado) : this(iscarro, lavado, false, 2.5){}
 
-        public string? LigarCarro() => _ligado ? "Ligado" : "Desligado";
-        public string? CarroMoto() => IsCarro;
+        public bool Ligar() => _ligado;
+        public bool IsCarro() => _carro;
+        public bool Lavado() => _limpo;
+        public double Gasolina() => _gasolina;
     }
 }
