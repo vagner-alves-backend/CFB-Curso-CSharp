@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MeodosClass-Abstratas-Main-Aula39/1.0.0": {
+        "runtime": {
+          "MeodosClass-Abstratas-Main-Aula39.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MeodosClass-Abstratas-Main-Aula39/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\bin\Debug\net10.0\Struct.exe
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\bin\Debug\net10.0\Struct.deps.json
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\bin\Debug\net10.0\Struct.runtimeconfig.json
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\bin\Debug\net10.0\Struct.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\bin\Debug\net10.0\Struct.pdb
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\Struct.AssemblyInfoInputs.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\Struct.AssemblyInfo.cs
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\Struct.sourcelink.json
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\Struct.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\refint\Struct.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\Struct.pdb
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\Struct.genruntimeconfig.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\CFB-Curso-CSharp\CFB-Aulas\POO\Struct\Struct\obj\Debug\net10.0\ref\Struct.dll
